@@ -5,7 +5,7 @@
 
 - 🔭 &nbsp; I’m currently learning Computer Science in PolyU.
 - 🎓 &nbsp; Studying Computer Science and Mathematics.
-- 🌱 &nbsp; Enthusiast in LLM for Data Visualization.
+- 🌱 &nbsp; Enthusiast in NLP for Database.
 - 🏀 &nbsp; I believe, playing basketball can be the ultimate solution for any stress. 
 - 🌐 &nbsp; Welcome to visit my homepage: [zwanah.github.io/](https://zwanah.github.io/)
 
