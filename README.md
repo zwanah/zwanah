@@ -7,7 +7,7 @@
 - 🎓 &nbsp; Studying Computer Science and Mathematics.
 - 🌱 &nbsp; Enthusiast in NLP for Database.
 - 🏀 &nbsp; I believe, playing basketball can be the ultimate solution for any stress. 
-- 🌐 &nbsp; Welcome to visit my homepage: [wanzhuoyue.com/](https://wanzhuoyue.com)
+- 🌐 &nbsp; Welcome to visit my homepage: [wanzhuoyue.com](https://wanzhuoyue.com)
 
 <h3>🛠 Tech Stack</h3>
 
