@@ -7,13 +7,12 @@
 - 🎓 &nbsp; Studying Computer Science and Mathematics.
 - 🌱 &nbsp; Enthusiast in NLP for Database.
 - 🏀 &nbsp; I believe, playing basketball can be the ultimate solution for any stress. 
-- 🌐 &nbsp; Welcome to visit my homepage: [zwanah.github.io/](https://zwanah.github.io/)
+- 🌐 &nbsp; Welcome to visit my homepage: [wanzhuoyue.com/](https://wanzhuoyue.com)
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | R | SPSS  
 - 🛢 &nbsp; MySQL 
-- 🔧 &nbsp; PyCharm | Visual Studio code 
 
 <br>
 
